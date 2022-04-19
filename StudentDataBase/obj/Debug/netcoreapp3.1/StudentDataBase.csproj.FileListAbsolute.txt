@@ -1,0 +1,14 @@
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\bin\Debug\netcoreapp3.1\StudentDataBase.exe
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\bin\Debug\netcoreapp3.1\StudentDataBase.deps.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\bin\Debug\netcoreapp3.1\StudentDataBase.runtimeconfig.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\bin\Debug\netcoreapp3.1\StudentDataBase.runtimeconfig.dev.json
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\bin\Debug\netcoreapp3.1\StudentDataBase.dll
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\bin\Debug\netcoreapp3.1\StudentDataBase.pdb
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.csproj.AssemblyReference.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.AssemblyInfoInputs.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.AssemblyInfo.cs
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.csproj.CoreCompileInputs.cache
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.dll
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.pdb
+C:\Users\dansa\OneDrive\Documents\Grand Circus\Labs\StudentDataBase\StudentDataBase\obj\Debug\netcoreapp3.1\StudentDataBase.genruntimeconfig.cache
